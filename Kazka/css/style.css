@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 232, 211);
+}
+h1,h2 {
+    text-align: center;}
+ a{color:black}
+p{
+    text-align: center;
+    font-size: larger;
+}
+.form{
+background-color: rgb(255, 153, 153);
+background-size: 10px;
+text-align: center;
+font-size: larger;
+}
+.last{
+	background-color: rgb(255, 153, 153);
+}
